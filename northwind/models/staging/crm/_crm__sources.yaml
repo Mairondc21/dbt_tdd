@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: postgress_himw
+    database: postgress_himw
+    schema: public_new
+    tables:
+      - name: customers
+      - name: orders

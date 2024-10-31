@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+.venv
+=======
+
+target/
+dbt_packages/
+logs/
+>>>>>>> 5638868 (test implementado)
